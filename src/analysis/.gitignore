@@ -1,1 +1,9 @@
 hf_auth.txt
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Excel files
+*.xlsx
+
+# Ignore CSV files
+*.csv
